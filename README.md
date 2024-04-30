@@ -1,45 +1,42 @@
 <h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Contribuindo em um Projeto Open Source no GitHub</span>
+    <a href="https://grootmet.com">
+     <img align="center" width="100px" src="https://grootnet.com/wp-content/uploads/2024/02/principal_logo_2.0-removebg-preview-300x85.png"></a>
+   <br> <span> Contribuindo em um Projeto Open Source no GitHub</span>
 </h1>
 
-Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio e exercício prático para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
+## Conecte-se Comigo
+[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/yasmin-alves-50861a1a9/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=30A3DC)](https://www.linkedin.com/in/yasmin-alves-50861a1a9/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/yasalvess)
 
-[![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
-[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
-
-## Objetivo
-Aprender o básico sobre contribuição no GitHub.
-
-## Ferramentas
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
-
-## Percurso
+## Aprimorando conhecimentos em...
 <table>
   <thead>
     <tr align="left">
-      <th>Nº</th>
-      <th>Etapas</th>
+      <th>ID</th>
+      <th>Linguagens</th>
     </tr>
   </thead>
   <tbody align="left">
     <tr>
       <td>01</td>
-      <td>Introdução ao Lab</td>
+      <td>Python</td>
     </tr>
     <tr>
       <td>02</td>
-      <td>Formas de Contribuir num Projeto Open Source</td>
+      <td>Java</td>
     </tr>
     <tr>
       <td>03</td>
-      <td>Desenvolvendo e Enviando uma Contribuição</td>  
+      <td>Javascript</td>  
     </tr>
     <tr>
       <td>04</td>
-      <td>Dicas e Materiais de Apoio</td>    
+      <td>HTML</td>    
+    </tr>
+      <tr>
+      <td>05</td>
+      <td>CSS</td>    
     </tr>
   </tbody>
 </table>
